@@ -54,7 +54,7 @@ int main() {
         }
     }
 
-    // 4. Print the entire DP table to match your handwritten one
+    // 4. Print the entire DP table
     cout << "--- DP Table ---" << endl;
     for (int i = 0; i < ROWS; ++i) {
         for (int j = 0; j < COLS; ++j) {
